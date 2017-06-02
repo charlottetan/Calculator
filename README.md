@@ -2,7 +2,7 @@
 Basic calculator using Swift 3. The goal of this was just to learn the language.
 
 ## Screenshot
-![Screenshot of calculator](/screenshot.png?raw=true "Screenshot of calculator")
+<img src="screenshot.png" width="100">
 
 ## Built with
 * [Swift 3.1](https://swift.org/documentation/)
