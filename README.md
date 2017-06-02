@@ -1,8 +1,7 @@
 # Calculator
 Basic calculator using Swift 3. The goal of this was just to learn the language.
 
-## Screenshot
-<img src="screenshot.png" width="100">
+<img src="screenshot.png" width="50%">
 
 ## Built with
 * [Swift 3.1](https://swift.org/documentation/)
