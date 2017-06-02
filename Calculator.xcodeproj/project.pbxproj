@@ -12,6 +12,8 @@
 		9E2B07201EE12C4C00746838 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E2B071E1EE12C4C00746838 /* Main.storyboard */; };
 		9E2B07231EE12C6000746838 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E2B07211EE12C6000746838 /* LaunchScreen.storyboard */; };
 		9E2B07251EE12CB000746838 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E2B07241EE12CB000746838 /* Assets.xcassets */; };
+		9E2B07281EE132E500746838 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9E2B07261EE132E500746838 /* README.md */; };
+		9E2B07291EE132E500746838 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E2B07271EE132E500746838 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		9E2B071F1EE12C4C00746838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Calculator/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
 		9E2B07221EE12C6000746838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Calculator/Base.lproj/LaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
 		9E2B07241EE12CB000746838 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Calculator/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		9E2B07261EE132E500746838 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		9E2B07271EE132E500746838 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = SOURCE_ROOT; };
 		9E432B751ED4038F003454DB /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -54,6 +58,8 @@
 		9E432B771ED4038F003454DB /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				9E2B07261EE132E500746838 /* README.md */,
+				9E2B07271EE132E500746838 /* screenshot.png */,
 				9E2B07241EE12CB000746838 /* Assets.xcassets */,
 				9E2B07211EE12C6000746838 /* LaunchScreen.storyboard */,
 				9E2B071E1EE12C4C00746838 /* Main.storyboard */,
@@ -126,6 +132,7 @@
 			files = (
 				9E2B07231EE12C6000746838 /* LaunchScreen.storyboard in Resources */,
 				9E2B07251EE12CB000746838 /* Assets.xcassets in Resources */,
+				9E2B07291EE132E500746838 /* screenshot.png in Resources */,
 				9E2B07201EE12C4C00746838 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E2B07281EE132E500746838 /* README.md in Sources */,
 				9E2B071B1EE12BEB00746838 /* ViewController.swift in Sources */,
 				9E2B07191EE12B8700746838 /* AppDelegate.swift in Sources */,
 			);
