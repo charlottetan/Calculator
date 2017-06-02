@@ -1,5 +1,5 @@
 # Calculator
-Basic calculator using Swift 3. The goal of this was just to learn the language.
+Basic calculator using Swift 3.
 
 <img src="screenshot.png" width="25%">
 
